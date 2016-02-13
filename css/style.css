@@ -1,1 +1,8 @@
+body {
+	font-family: sans-serif;
+}
+
+.info-label {
+	background-color: #EDEDED;
+}
 #map { height: 540px; }
